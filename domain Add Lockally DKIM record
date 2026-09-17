@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "verne-works",
+    "email": "varenworks@gmail.com"
+  },
+  "records": {
+    "TXT": "v=DMARC1; p=none; rua=mailto:dmarc@varenworks.is-a.dev; fo=1"
+  }
+}
