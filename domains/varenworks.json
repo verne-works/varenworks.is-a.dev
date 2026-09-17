@@ -4,6 +4,22 @@
     "email": "varenworks@gmail.com"
   },
   "records": {
-    "A": ["216.198.79.1"]
+    "A": [
+      "216.198.79.1"
+    ],
+    "TXT": [
+      "lkv-kvmpgdfrvj7m2yyfoy5twkux6iit5ssp",
+      "v=spf1 include:_spf.lockally.com ~all"
+    ],
+    "MX": [
+      {
+        "target": "mx1.lockally.com",
+        "priority": 10
+      },
+      {
+        "target": "mx2.lockally.com",
+        "priority": 20
+      }
+    ]
   }
 }
