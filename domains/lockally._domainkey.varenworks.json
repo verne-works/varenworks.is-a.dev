@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "verne-works",
+    "email": "varenworks@gmail.com"
+  },
+  "records": {
+    "TXT": "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArR9hrMpHtKtvLreDh5+ZwW3VVvYe0oIEgw/WUg7omgSQmaU2UeSTE9bhuj3BwKjqHorDwRQ8STIax4k0eZT8+zGg/OEnLsJMKZrhNapv3me5LRiJlj13ZOx00GzDz8jknfCbiE5lEZIOjT+JjTaQYi6DJkBC7y2e7MMUQbdIHGGYpvkpJ21Uwl+ub5kCX24i/4fFpo7qZpqBj4BL49BCmM7pdTfmdWdfk9lXDPAzcn/ZBg54Kky03kl2JFER9U7DwOql2mPfZfjPcSi/u7RHJXEFlIUrDb/34sap+hwCtd+WGR7cvFMAJBO/FfFLNf7LKvLvTUavORhyKkQ3jvTkpQIDAQAB"
+  }
+}
